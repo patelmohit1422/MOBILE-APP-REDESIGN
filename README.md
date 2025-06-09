@@ -90,5 +90,15 @@ I redesigned 3 key screens for SBI YONO:
 
 - Improved accessibility with color contrast and readable font sizes.
 
-## THIS IS BEFOR REDESIGN WEBSITE:
+## THIS IS BEFOR REDESIGN APP:
 
+![Image](https://github.com/user-attachments/assets/a880956c-cee6-4faf-a5b8-7b3248219eb1)
+![Image](https://github.com/user-attachments/assets/e7846113-e3f7-492b-bbaa-23a05a523e0e)
+![Image](https://github.com/user-attachments/assets/bd9deffa-194c-4a67-9565-6618855cbc3b)
+
+## THIS IS AFTER REDESIGN APP:
+
+![Image](https://github.com/user-attachments/assets/ea631da2-a8b6-48a0-aadb-e00e0f85fcb3)
+![Image](https://github.com/user-attachments/assets/76386ca8-64f7-4979-a555-a6bd1d8dbf2f)
+![Image](https://github.com/user-attachments/assets/746f605d-6085-4e20-a120-cd18758c01d9)
+![Image](https://github.com/user-attachments/assets/d6af6376-a579-432e-a1f3-21d5372e99ee)
