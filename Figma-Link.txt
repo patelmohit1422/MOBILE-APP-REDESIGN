@@ -1,0 +1,19 @@
+🔗 Task 3 – SBI YONO App Redesign (Codetech Internship)
+
+Designed by: Mohit Jyani  
+Tool: Figma  
+Screens Designed: 7+
+Prototype: Included
+
+✅ Main Figma File:
+https://www.figma.com/design/i8aJL4FgxjgBauBkdfvB77/SBI-yono-redesign?node-id=158-429&t=hT4uWQPG32uwVovD-1
+
+✅ Prototype Link:
+https://www.figma.com/proto/i8aJL4FgxjgBauBkdfvB77/SBI-yono-redesign?page-id=0%3A1&node-id=12-41&viewport=-2468%2C161%2C0.86&t=0GnulxUKdUmyDPUU-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=12%3A41
+
+Note:
+- The prototype demonstrates the full UPI payment flow.
+- Please ensure "Anyone with the link" is set to "Can View".
+
+Navigation Flow:
+Login → Home → Pay Contact → Send Money → Enter PIN → Confirmation → Back to Home → Transaction History
